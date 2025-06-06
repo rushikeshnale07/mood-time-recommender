@@ -24,3 +24,7 @@ timestamp,hour,mood,genre,movie,username
 2025-06-06 14:41:46.494893,0,Bored,Thriller,Se7en,batman
 2025-06-06 14:41:51.737902,5,Bored,Thriller,Se7en,batman
 2025-06-06 14:41:55.847648,5,Bored,Thriller,Gone Girl,batman
+2025-06-06 19:23:07.437686,15,Excited,Action,Mad Max,Rushikesh Nale
+2025-06-06 19:36:32.355984,19,Happy,Action,Mad Max,spiderman
+2025-06-06 19:36:44.053100,12,Bored,Thriller,Se7en,spiderman
+2025-06-06 19:42:34.475796,21,Excited,Action,Mad Max,superman
