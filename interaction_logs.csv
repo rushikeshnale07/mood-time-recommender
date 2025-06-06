@@ -1,0 +1,26 @@
+timestamp,hour,mood,genre,movie,username
+2025-06-06 13:08:35.732934,15,Bored,Thriller,Se7en,
+2025-06-06 13:08:54.383146,21,Bored,Thriller,Se7en,
+2025-06-06 13:09:01.314031,3,Bored,Thriller,Gone Girl,
+2025-06-06 13:09:20.859779,14,Bored,Thriller,Gone Girl,
+2025-06-06 13:09:31.049844,14,Excited,Action,Mad Max,
+2025-06-06 13:09:41.685857,14,Calm,Animation,Coco,
+2025-06-06 13:15:22.692906,14,Excited,Action,Mad Max,
+2025-06-06 13:20:23.284326,17,Angry,Sci-Fi,Inception,
+2025-06-06 13:25:58.462579,13,Sad,Drama,The Shawshank Redemption,
+2025-06-06 13:26:30.293030,13,Excited,Sci-Fi,Inception,
+2025-06-06 13:30:31.947168,14,Angry,Thriller,Gone Girl,
+2025-06-06 13:30:53.667846,14,Happy,Comedy,Superbad,
+2025-06-06 13:49:48.692168,15,Excited,Action,Mad Max,batman
+2025-06-06 13:50:24.176863,15,Excited,Action,John Wick,batman
+2025-06-06 13:50:34.786438,15,Bored,Thriller,Se7en,batman
+2025-06-06 13:50:48.484233,15,Sad,Action,Mad Max,batman
+2025-06-06 13:51:05.892468,15,Sad,Action,Mad Max,batman
+2025-06-06 13:57:28.462466,18,Happy,Action,John Wick,rushi
+2025-06-06 14:26:53.534856,18,Excited,Action,Mad Max,rushii
+2025-06-06 14:27:54.376955,12,Angry,Thriller,Gone Girl,rushii
+2025-06-06 14:41:09.215531,17,Sad,Action,Mad Max,batman
+2025-06-06 14:41:40.385348,21,Bored,Thriller,Se7en,batman
+2025-06-06 14:41:46.494893,0,Bored,Thriller,Se7en,batman
+2025-06-06 14:41:51.737902,5,Bored,Thriller,Se7en,batman
+2025-06-06 14:41:55.847648,5,Bored,Thriller,Gone Girl,batman
